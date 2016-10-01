@@ -1,0 +1,58 @@
+
+body{
+	background-image: url("cb.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+	
+
+}
+
+#box{
+
+	width: 400px;
+	height: auto;
+	background-color:black;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 70px;
+	text-align: left;
+	align-items: left;
+	padding-left: 0px;
+	padding:30px;
+	align-content:bottom;
+	
+	color:white;
+	opacity: 0.8;
+	box-shadow: 10px 10px 5px #111111;
+
+	
+
+
+}
+
+#box2{
+
+	width: 400px;
+	height: auto;
+	background-color:black;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	text-align: left;
+	padding: 20px;
+	align-content:bottom;
+	align-items: center;
+	color:white;
+	opacity: 0.8;
+	box-shadow: 10px 10px 5px #111111;
+}
+
+#box2 table
+{
+	
+	color:white;
+
+}
